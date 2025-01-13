@@ -2,10 +2,6 @@ using UnityEngine;
 
 namespace Player.Scripts
 {
-    /// <summary>
-    /// Handles the first-person camera movement, allowing for mouse input control
-    /// to rotate the camera both horizontally and vertically, with sensitivity adjustments.
-    /// </summary>
     public class CameraController : MonoBehaviour
     {
         [Header("References")]
